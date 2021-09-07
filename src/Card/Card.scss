@@ -1,0 +1,24 @@
+.card
+{
+    text-align: center;
+    background-color: khaki;
+    height: 10%;
+    width:15%;
+    margin:3%;
+    border:1px solid black;
+    h2
+    {
+        color:black;
+        height:5%;
+    }
+    img
+    {
+        height: 80%;
+        width: 80%;
+    }
+
+}
+.card:hover
+{
+    transform:scale(1.1);
+}
